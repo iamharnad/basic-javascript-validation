@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+    text-align:left;
+    margin: auto;
+    width: 70%;
+    
+    padding: 5px;
+    font: 15px Arial, sans-serif;
+    font-family:  Charcoal, sans-serif;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  td 
+  {
+      height: 50px; 
+      width: 50px;
+  }
+  
+  #cssTable td 
+  {
+      text-align:left; 
+      vertical-align: middle;
+  }
